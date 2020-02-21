@@ -1,0 +1,8 @@
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/bin/Debug/netstandard2.0/SQSHttpClient.deps.json
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/bin/Debug/netstandard2.0/SQSHttpClient.dll
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/bin/Debug/netstandard2.0/SQSHttpClient.pdb
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/obj/Debug/netstandard2.0/SQSHttpClient.csprojAssemblyReference.cache
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/obj/Debug/netstandard2.0/SQSHttpClient.AssemblyInfoInputs.cache
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/obj/Debug/netstandard2.0/SQSHttpClient.AssemblyInfo.cs
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/obj/Debug/netstandard2.0/SQSHttpClient.dll
+/Users/nwestfall/Projects/SQSHttpClient/src/SQSHttpClient/obj/Debug/netstandard2.0/SQSHttpClient.pdb
